@@ -1,10 +1,6 @@
-const EXPRESS = 'express';
-const KOA2 = 'koa2';
-const MASTER = 'master';
+const git_path_prefix = 'https://github.com/atJiangBei'
 
 
 module.exports = {
-	EXPRESS,
-	KOA2,
-	MASTER
+	git_path_prefix
 }

@@ -1,24 +1,24 @@
 {
 	"name": "vrcli",
-	"version": "0.0.2",
-	"description": "",
+	"version": "1.0.5",
+	"description": "vue,vue-cli,cli,react,react-cli,create-app,create",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"bin": {
-		"js": "src/index.js"
+		"vrcli": "src/index.js"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/atJiangBei/jscli.git"
+		"url": "git+https://github.com/atJiangBei/vrcli.git"
 	},
-	"author": "",
+	"author": "JiangBei",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/atJiangBei/jscli/issues"
+		"url": "https://github.com/atJiangBei/vrcli/issues"
 	},
-	"homepage": "https://github.com/atJiangBei/jscli#readme",
+	"homepage": "https://github.com/atJiangBei/vrcli#readme",
 	"devDependencies": {},
 	"dependencies": {
 		"chalk": "^3.0.0",

@@ -1,0 +1,7 @@
+
+
+```bin
+
+vrcli create <project>
+
+```
